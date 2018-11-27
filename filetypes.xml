@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="info" type="Ini" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="readme" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
