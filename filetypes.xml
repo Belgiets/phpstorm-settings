@@ -4,6 +4,7 @@
       <mapping ext="info" type="Ini" />
       <mapping ext="install" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="readme" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
