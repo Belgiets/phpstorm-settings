@@ -5,6 +5,7 @@
       <mapping ext="install" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="mysql_changelogs" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
