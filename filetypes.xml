@@ -5,18 +5,19 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="info" type="Ini" />
       <mapping ext="install" type="PHP" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="testfile" type="PLAIN_TEXT" />
-      <mapping pattern="mysql_changelogs" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
-      <mapping ext="readme" type="PLAIN_TEXT" />
+      <mapping pattern="mysql_changelogs" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="testfile" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="readme" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="_entry" type="Twig" />
       <mapping pattern="s3single" type="Twig" />
+      <mapping pattern="_entry" type="Twig" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
