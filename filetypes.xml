@@ -4,6 +4,7 @@
       <mapping ext="info" type="Ini" />
       <mapping ext="install" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="Her" type="PLAIN_TEXT" />
       <mapping pattern=".empty" type="PLAIN_TEXT" />
       <mapping pattern="itemPaymentTransaction" type="PLAIN_TEXT" />
       <mapping pattern="mysql_changelogs" type="PLAIN_TEXT" />
