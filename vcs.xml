@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com/lectorium-php/l6-crud.git" />
           <option name="userName" value="lectorium-php" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com/lectorium-php/docker.git" />
+          <option name="userName" value="lectorium-php" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
